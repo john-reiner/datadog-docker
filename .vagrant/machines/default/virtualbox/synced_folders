@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant/app":{"guestpath":"/vagrant/app","hostpath":"/Users/john.reiner/Development/datadog_docker/synced","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/john.reiner/Development/datadog_docker","disabled":false,"__vagrantfile":true}}}
